@@ -77,7 +77,7 @@ function About() {
                         <div className="space-y-4 text-gray-300">
                             <div>
                                 <h4>
-                                   Software Developer at Spectrum Solution (2023-2025)
+                                   Software Developer at Spectrum Solution (Jan2025- Jun2025)
                                 </h4>
                                 <p>
                                      Ensured cross-browser compatibility and responsive design for consistent user experience on desktop, tablet,

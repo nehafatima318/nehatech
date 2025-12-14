@@ -70,6 +70,18 @@ function About() {
                                 Relevant Coursework: Object Oriented Programming, Data Structures, Web Development, Algorithms, Database
                             </li>
                         </ul>
+                        </div>
+
+                        <div className="p-6 rounded-xl border-white/10 border hover:-translate-y-1 transition-all">
+                        <h3 className="text-xl font-bold mb-4">🏫Education</h3>
+                        <ul className="list-disc list-inside text-gray-300 space-y-2">
+                            <li>
+                                <strong>MS in Artificial Intelligence</strong> BTU COTTBUS (2025-Present)
+                            </li>
+                            <li>
+                                Relevant Coursework: Computational Neural Signal, Neural Signal Analysis, Explainable Machine Learning
+                            </li>
+                        </ul>
                     </div>
 
                      <div className="p-6 rounded-xl border-white/10 border hover:-translate-y-1 transition-all">
@@ -77,7 +89,7 @@ function About() {
                         <div className="space-y-4 text-gray-300">
                             <div>
                                 <h4>
-                                   Software Developer at Spectrum Solution (Jan2025- Jun2025)
+                                   <strong>Software Developer at Spectrum Solution (2023-2025)</strong>
                                 </h4>
                                 <p>
                                      Ensured cross-browser compatibility and responsive design for consistent user experience on desktop, tablet,

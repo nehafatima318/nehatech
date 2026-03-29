@@ -15,8 +15,10 @@ function About() {
 
                 <div className="glass rounded-xl p-8 border-white/10 border hover:-translate-1 transition-all">
                     <p className="text-gray-300  mb-6">
-                    Passionate developer with expertise in building scalable web 
-                    applications and creating innovative solutions.
+                    Software Developer with 2 years of experience building real-world applications and data-driven solutions. Proficient in
+                    HTML, CSS, ReactJs, JavaScript, Python, PHP, MySQL, SQL, GitHub, and Machine Learning. Currently deepening expertise
+                    in Artificial Intelligence and ML techniques. Fluent in English and learning German (A2).
+
                     </p>
 
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
